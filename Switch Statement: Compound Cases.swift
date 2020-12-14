@@ -22,5 +22,4 @@ switch country {
   default: 
     print("This country is somewhere in the world!")
 } 
-
 */
