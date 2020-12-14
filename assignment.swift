@@ -1,7 +1,9 @@
 var apples = 16
 print(apples)
 
+apples -= 4
 
+apples /= 2
 /*
 += add and assign the sum.
 -= subtract and assign the difference.
