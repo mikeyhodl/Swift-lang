@@ -22,3 +22,4 @@ switch randomNumber {
 }
  
 // Prints: 7 is odd
+*/
