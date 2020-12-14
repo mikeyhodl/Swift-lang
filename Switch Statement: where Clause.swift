@@ -1,7 +1,7 @@
 var wholeNumber = 15 
 
 switch wholeNumber {
-  // this should be empty!
+
 }
 
 /*
