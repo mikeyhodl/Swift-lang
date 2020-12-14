@@ -4,7 +4,7 @@ var soles: Double = 100
 
 var total: Double
 
-// 🇨🇴 Pesos conversion rate: 0.050
+// 🇲🇽 Pesos conversion rate: 0.050
 // 🇧🇷 Reais conversion rate: 0.20
 // 🇵🇪 Soles conversion rate: 0.28
 
