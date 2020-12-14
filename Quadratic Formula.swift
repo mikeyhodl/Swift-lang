@@ -1,5 +1,3 @@
-// Quadratic Formula 📈
-// Sonny Li
 var a: Double = 6
 var b: Double = -7
 var c: Double = -3

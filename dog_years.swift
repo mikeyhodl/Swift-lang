@@ -1,5 +1,3 @@
-// Dog Years 🐶
-// Sonny Li
 var dogAge: Double = 2.5
 
 let earlyYears: Double = 21.0
