@@ -1,5 +1,9 @@
 var wholeNumber = 15 
 
+switch wholeNumber {
+  // this should be empty!
+}
+
 /*
 var randomNumber = Int.random(in: 0...10)
  
