@@ -1,8 +1,11 @@
 var wholeNumber = 15 
 
-switch wholeNumber {
-
-}
+case let x where x % 2 == 0:
+    print("message")
+  case let x where x % 3 == 0:
+    print("another message here")
+  default:
+    print("default message")
 
 /*
 var randomNumber = Int.random(in: 0...10)
