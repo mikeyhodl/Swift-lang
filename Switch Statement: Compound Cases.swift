@@ -12,6 +12,7 @@ switch planet {
 /*
 var country = "India"
  
+ 
 switch country {
   case "USA", "Mexico", "Canada":
     print("\(country) is in North America. 🌏")
