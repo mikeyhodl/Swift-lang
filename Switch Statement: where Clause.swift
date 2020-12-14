@@ -3,9 +3,9 @@ var wholeNumber = 15
 case let x where x % 2 == 0:
     print("Composite")
   case let x where x % 3 == 0:
-    print("another message here")
+    print("Composite")
   default:
-    print("default message")
+    print("Prime")
 
 /*
 var randomNumber = Int.random(in: 0...10)
