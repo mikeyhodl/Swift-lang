@@ -27,6 +27,5 @@ switch randomNumber {
   default:
     print("Invalid")
 }
- 
 // Prints: 7 is odd
 */
