@@ -10,3 +10,4 @@ resolutions += ["save more money 💰"]
 print(resolutions)
 
 // print
+print(resolutions)
