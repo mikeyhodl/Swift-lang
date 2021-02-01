@@ -6,7 +6,7 @@ var englishLiterature: Set = ["Gabby", "Jasmine", "Alex", "Alif", "Aldrian", "Ad
 var computerScience: Set = ["Galina", "Kenny", "Sonny", "Alex", "Skyla"]
 
 // Write your code below 🍎
-// Task Group: Creating a Roster of All Students
+// Task Group: Creating a Roster of All Students f(x) = ∛x and g(x) = 1/x^4  Find g(f(x))
 // Create a set of all students enrolled in at least 1 class
 var allStudents = spanish101.union(german101)
 allStudents = allStudents.union(advancedCalculus)
